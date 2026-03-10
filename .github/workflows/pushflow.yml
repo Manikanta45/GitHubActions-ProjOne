@@ -14,3 +14,4 @@ jobs:
         run: |
           echo "Welcome to thhe project"
           echo "Executed successfully"
+          echo "push executed successfully and switched from workflow trigger to push trigger"
